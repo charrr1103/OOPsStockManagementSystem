@@ -14,3 +14,5 @@ The main objective of the SMS is to keep track and manage stock on a continual b
 - If user do not wish to add any products, the program should prompt a request and require user to enter a zero value to exit the program. 
 - Display the menu option whether to view products, add stock, deduct stock, discontinue a product, or do nothing (Exit) after all the products were added to the system. Check if a user is making valid selection. Execute the appropriate methods that you have defined in the StockManagement class (whether to view products, add stock, deduct stock, or discontinue product) based on user selection. 
 - Display the generated user ID and their name when user exits the system.   
+
+In charge of TV class, JavaFX decorations, and addStock method.
